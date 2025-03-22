@@ -12,7 +12,7 @@ export default defineConfig({
     },
   },
   server: {
-    allowedHosts: ['sol-devta.anuragmaurya.me'],
+    allowedHosts: ['sol-devta.anuragmaurya.com'],
     host: '0.0.0.0',
     port: 5011,
   }
