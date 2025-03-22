@@ -52,7 +52,7 @@ function Airdrop() {
       <Card className="w-full max-w-md bg-slate-800/50 border-slate-700 backdrop-blur-sm">
         <CardHeader className="border-b border-slate-700 pb-4">
           <CardTitle className="flex-col items-center gap-2 text-3xl text-white  font-black">
-            Sol Devta 🙇🙏
+            Sol देवता 🙇🙏
             <h1 className="text-xs font-normal font-mono text-white/80">
               get the blessing from Sol Devta itself !
             </h1>
@@ -127,7 +127,7 @@ function Airdrop() {
           anurag
         </a>{" "}
         <br />        <a
-          href=""
+          href="https://github.com/justanuragmaurya/solana-faucet"
           target="__blank"
           className="text-blue-500"
         >
