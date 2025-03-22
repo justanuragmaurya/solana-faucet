@@ -117,7 +117,7 @@ function Airdrop() {
           </h1>
         </CardContent>
       </Card>
-      <h1 className="text-center absolute bottom-4 text-sm">
+      <h1 className="text-center absolute bottom-1 text-sm">
         made with ❤️ by{" "}
         <a
           href="https://x.com/anuragmaurya_x"

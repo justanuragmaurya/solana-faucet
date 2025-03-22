@@ -11,4 +11,9 @@ export default defineConfig({
       '@': path.resolve(__dirname, './src'),
     },
   },
+  server: {
+    allowedHosts: ['sol-devta.anuragmaurya.me'],
+    host: '0.0.0.0',
+    port: 5011,
+  }
 })
