@@ -49,7 +49,7 @@ function Airdrop() {
 
   return (
     <div className="min-h-screen bg-gradient-to-br from-black to-gray-900 p-4 sm:p-6 md:p-8 flex items-center justify-center text-white font-mono">
-      <Card className="w-full max-w-md bg-slate-800/50 border-slate-700 backdrop-blur-sm">
+      <Card className="w-full max-w-md bg-slate-800/10 border-slate-700 backdrop-blur-sm ">
         <CardHeader className="border-b border-slate-700 pb-4">
           <CardTitle className="flex-col items-center gap-2 text-3xl text-white  font-black">
             Sol देवता 🙇🙏
